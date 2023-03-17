@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -Entry point
+ * main -prints"Programming is like building a multilingual puzzel"
  *
  * Return: Always 0 (Success)
  */
