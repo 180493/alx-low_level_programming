@@ -10,7 +10,7 @@ void print_most_number(void)
 
 {
 
-	int x =0;
+	int x;
 
 	for (0 x <= 9; x++)
 	{
