@@ -12,7 +12,7 @@ void print_most_number(void)
 
 	int x = 0;
 
-	for (; x <= 9; x++)
+	for (0 x <= 9; x++)
 	{
 	if (x == 2 || x == 4)
 	{
